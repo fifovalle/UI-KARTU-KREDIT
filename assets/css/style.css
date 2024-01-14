@@ -7,6 +7,66 @@
     font-family: "Poppins", sans-serif;
 }
 
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #1a1a1f;
+}
+
+.wadah {
+    position: relative;
+    background-image: url(../images/latar.jpeg);
+    background-size: cover;
+    padding: 25px;
+    border-radius: 28px;
+    max-width: 380px;
+    width: 100%;
+    box-shadow: 0 5px 20px rgba(255, 255, 255, 0.063);
+}
+
+header,
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .kepingan {
+    width: 60px;
+}
+
 .logo img {
     width: 48px;
+    margin-right: 10px;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}
+
+h5.nomor {
+    margin-top: 4px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+h5.nama {
+    margin-top: 20px;
+}
+
+h6 {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.wadah .detail-kartu {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
 }
