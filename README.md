@@ -20,12 +20,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 Berikut adalah beberapa tampilan halaman website :
 
-![Screenshot 2023-08-30 133640](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/69d7a7f7-4295-4ff1-8ebb-01ab11a28143)
-![Screenshot 2023-08-30 133651](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/a17d0897-1278-4e90-9403-59da60896ca2)
-![Screenshot 2023-08-30 133707](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/0b37f2dd-6ae0-40f1-8570-e10f007e7c9b)
-![Screenshot 2023-08-30 133716](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/933ced45-d721-4437-bc5a-4d73bac06ece)
-![Screenshot 2023-08-30 133728](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/b270d03a-b110-4d10-b4dd-be513df7c61c)
-![Screenshot 2023-08-30 133736](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/9c59484e-2d8e-4952-b8b9-2e3baf9b8ea3)
+![Screenshot 2024-01-14 095438](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI/assets/90078068/d37dbd20-ea55-47e1-86d0-fcbbaef94366)
 
 ## 📬 Kontak
 
@@ -40,12 +35,12 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI.git
+   git clone https://github.com/fifovalle/UI-KARTU-KREDIT.git
    ```
 
 2. Buka file `index.html` di peramban web Anda.
 
-Terima kasih atas antusiasme Anda menantikan kehadiran website ini! 🙌
+Terima kasih atas antusiasme Anda menantikan kehadiran user interface ini! 🙌
 
 <div align="center">
   &copy; 2023 [Naufal FIFA]
